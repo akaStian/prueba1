@@ -1,0 +1,47 @@
+table, tr, th, td{
+
+    border: 1px solid;
+    border-collapse: collapse;
+
+
+}
+
+th{
+    background-color: rgb(95, 243, 132);
+}
+
+
+td{
+    background-color: rgb(144, 124, 199);
+}
+
+li{
+    color: rgb(255, 0, 157);
+}
+
+body{
+background-color: rgb(205, 255, 251);
+
+
+}
+
+
+
+header{
+color: rgb(0, 60, 255);
+
+}
+
+h1{
+    color: brown;
+}
+
+p{
+
+    color: rgb(255, 115, 0);
+}
+
+textarea{
+    padding-block: 25px;
+
+}
